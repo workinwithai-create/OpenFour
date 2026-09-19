@@ -1,0 +1,7 @@
+{
+  "name": "openfour",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Four-bar live intro desk for bedroom producers and AI-music finishers",
+  "license": "MIT"
+}
